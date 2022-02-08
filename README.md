@@ -1,6 +1,6 @@
 DJ Events (Strapi Backend)
 
-The Next.js frontend can be found [here]https://github.com/aloundoye/dj-events-frontend)
+The Next.js frontend can be found [here](https://github.com/aloundoye/dj-events-frontend)
 
 # Usage
 
